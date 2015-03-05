@@ -1,0 +1,25 @@
+﻿body {
+    background-color: #2d314b;
+    font-family: sans-serif;
+}
+
+img{
+    border: 3px solid black;
+}
+
+h1{
+    color: white;
+    font-weight: 200;
+    text-transform: lowercase;
+    letter-spacing: .075em;
+}
+
+.lbl{
+    color: white;
+    font-size: 24px;
+}
+
+div{
+    margin: auto;
+    text-align: center;
+}
